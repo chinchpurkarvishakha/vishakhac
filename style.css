@@ -1,0 +1,49 @@
+*{
+    background-color: rgba(181, 28, 155, 0.63);
+    color: black;
+    align-items: center;
+    padding: 7px;
+    width: 10;
+    height: max-content;
+    border-radius: 10px;
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    background: rgb(66, 143, 148);
+    
+}
+label{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 4;
+}
+input{
+    background-color: beige;
+}
+body{
+    background-color: black;
+    color: black;
+
+}
+form{
+    background: linear-gradient(135deg, #391919, #87631c, #4a1293, #100104);
+}
+table{
+    background: linear-gradient(135deg, #100f00, #5f373e, #0d5f9e);
+    color: cyan;
+
+}
+thead{
+    background-color: cornflowerblue;
+    color: #100f00;
+    padding: 10;
+    width: min-content;
+    height: max-content;
+    border-radius: 10px;
+
+}
+tbody{
+    background-color: #100f00;
+    color: #394db2;
+}
